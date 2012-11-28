@@ -1,0 +1,7 @@
+- no overusing id selector
+- no overusing div tag
+- fixed position messy while not using image
+- semantic tag
+- cleaner code
+- split html & css
+- and many more

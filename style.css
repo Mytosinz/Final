@@ -130,12 +130,12 @@ aside form{
 	position: relative;
 	z-index: 5;
 }
-aside form label{
+aside form span{
 	display: block;
 	margin-bottom: 8px;
 	background-color: #ffffff;
 }
-aside form label span{
+aside form span label{
 	display: block;
 	float: left;
 	width: 105px;
@@ -145,7 +145,7 @@ aside form label span{
 	font-weight: 600;
 	background-color: #ffffff;
 }
-aside form label input{
+aside form span input{
 	margin-left: 5px;
 	width: 240px;
 	height: 25px;
@@ -153,7 +153,7 @@ aside form label input{
 	border-color: #d2d2d2;
 	background-color: #ffffff;
 }
-aside form label select{
+aside form span select{
 	margin-left: 5px;
 	border: solid 1px;
 	border-color: #d2d2d2;
